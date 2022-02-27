@@ -19,7 +19,7 @@
 **1：c++：程序设计**  
   SJTU-CS1501H：程序设计思想与方法：已完成  
 **2：数据结构**  
-  SJTU-CS0501H：算法与数据结构：todo  
+  ```SJTU-CS0501H：算法与数据结构：doing```  
 **四：体系结构**  
 **1：计算机体系构建**  
   ```MIT-Coursera: Nand2Tetris：doing```  
