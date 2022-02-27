@@ -2,7 +2,7 @@
 **一：数学基础**  
 **1：微积分**  
   SJTU-MATH1607H：数学分析（上）：已完成  
-  SJTU-MATH1608H：数学分析（下）：doing  
+  ```SJTU-MATH1608H：数学分析（下）：doing```  
 **2：线性代数**  
   SJTU-MATH1205H：线性代数：已完成  
   3B1B：3hour的合集视频：todo  
@@ -14,7 +14,7 @@
   UCB-CS70 : discrete Math and probability theory：离散数学和概率论基础：todo  
 **二：电子基础**  
 **1：电路理论基础**  
-  SJTU-EE0501H：电路理论：doing  
+  ```SJTU-EE0501H：电路理论：doing```  
 **三：软件工程**  
 **1：c++：程序设计**  
   SJTU-CS1501H：程序设计思想与方法：已完成  
