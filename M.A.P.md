@@ -12,7 +12,7 @@ NULL
   ```SJTU-MATH1608H：数学分析（下）：doing```  
 **2：线性代数**  
   SJTU-MATH1205H：线性代数：已完成  
-  3B1B：3hour的合集视频：todo  
+  3B1B：线性代数的本质：已完成  
 **3：信息论-入门**  
   MIT-6.050J: Information theory and Entropy：信息论基础：todo  
 **4：离散数学**  
