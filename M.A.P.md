@@ -1,33 +1,31 @@
-**零：基础工作**  
-**1：工具**  
-  SJTU-FL3201:大学英语：已完成 
-**2：方法**  
-  SJTU-CHEM1211H:大学化学：已完成   
-  SJTU-FL3201:大学物理：已完成
-**3：社科知识**  
-**一：数学基础**  
-**1：微积分**  
-  SJTU-MATH1607H：数学分析（上）：已完成  
-  SJTU-MATH1608H：数学分析（下）：已完成 
-**2：线性代数**  
-  SJTU-MATH1205H：线性代数：已完成  
-  3B1B：线性代数的本质：已完成  
-**3：信息论-入门**  
-  MIT-6.050J: Information theory and Entropy：信息论基础：todo  
-**4：离散数学**  
-  UCB-CS70 : discrete Math and probability theory：离散数学和概率论基础：todo  
-**5：概率论**  
-  UCB-CS70 : discrete Math and probability theory：离散数学和概率论基础：todo  
-**二：电子基础**  
-**1：电路理论基础**  
-  SJTU-EE0501H：电路理论：已完成  
-**三：软件工程**  
-**1：c++：程序设计**  
-  SJTU-CS1501H：程序设计思想与方法：已完成  
-**2：数据结构**  
-  SJTU-CS0501H：算法与数据结构：已完成  
-**四：体系结构**  
-**1：计算机体系构建**  
-  ```MIT-Coursera: Nand2Tetris：doing```  
-**五：计算机系统**  
-1：Computer Systems: A Programmer's Perspective：todo  
+# Study_Map
+
+## 序
+
+## 通识科学
+  - [x] `SJTU-FL2201` 大学英语 (2) 【**A-**】
+  - [x] `SJTU-FL3201` 大学英语 (3) 【**B**】
+  - [x] `SJTU-CHEM1211H` 大学化学 (荣誉) 【**A-**】
+  - [x] `SJTU-MARX1208` 思想道德与法治  【**A**】
+  - [x] `SJTU-MARX1202` 中国近现代史纲要  【**A**】
+  - [x] `SJTU-SI1210` 工程实践  【**A-**】
+  - [x] `SJTU-DES1350H` 创新思维与现代设计(荣誉)  【**A+**】
+  - [x] `SJTU-PHY1251H` 大学物理I (荣誉) 【**A**】
+## 数学基础
+  - [x] `SJTU-MATH1607H` 数学分析I (荣誉) 【**A**】
+  - [x] `SJTU-MATH1608H` 数学分析II (荣誉) 【**A-**】
+  - [x] `SJTU-MATH1205H` 线性代数 (荣誉) 【**A-**】
+## 数学进阶
+  - [ ] `MIT-6.042J` Mathematics for Computer Science
+## 编程入门
+  - [x] `SJTU-CS1501H` 程序设计思想与方法 (荣誉) 【**A**】
+  - [ ] `HAR-CS50` This is CS50x
+  - [ ] `USB-CS61A` Structure and Interpretation of Computer Programs(SICP)
+## 电子基础
+  - [x] `SJTU-EE0501H` 电路理论 (荣誉) 【**A-**】
+## 数据结构与算法
+  - [x] `SJTU-CS0501H` 算法与数据结构 (荣誉) 【**A-**】
+## 软件工程
+  - [ ] `SJTU-NIS1336` 计算机编程实践 【 】
+## 体系结构
+  - [ ] `HUJI-NTT` Nand2Tetris
